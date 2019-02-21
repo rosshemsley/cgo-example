@@ -1,0 +1,2 @@
+# cgo-example
+failing example
